@@ -12,5 +12,5 @@ consent of Spring Mountain Benefit Corp.
 
 [![Jamstack](logo1.png)](https://jamstack.org/)
 [![Jamstack](logo3.png)](https://jamstack.org/)
-[![Jamstack](logo2.png)](https://jamstack.org/)
+
 
