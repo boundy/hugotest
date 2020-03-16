@@ -10,4 +10,6 @@ The contents of the Site, including the text and images, are copyrighted and may
 distributed, modified, reproduced, or used, in whole or in part, without the prior written
 consent of Spring Mountain Benefit Corp.
 
-[![Jamstack](jamstack.png)](https://jamstack.org/)
+[![Jamstack](logo1.png)](https://jamstack.org/)
+[![Jamstack](logo2.png)](https://jamstack.org/)
+[![Jamstack](logo3.png)](https://jamstack.org/)
