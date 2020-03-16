@@ -8,7 +8,7 @@ and neighborhood development.
 ## Legal 
 
 The contents of smbcjm.org, including text and images, are copyrighted, and may not be
-distributed, modified, reproduced, or used, in whole or in part, without the prior written
+modified, reproduced, or used, in whole or in part, without the prior written
 consent of the Spring Mountain Benefit Corp. organization.
 
 ## Contact
