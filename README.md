@@ -3,7 +3,7 @@
 Spring Mountain Benefit Corp. is a nonprofit organization focused on community improvement
 and neighborhood development.
 
-![alt text](screenshot.png "New design")
+![smbcjm](screenshot.png "smbcjm")
 
 ## Legal 
 
