@@ -18,6 +18,8 @@ Technical inquiries regarding the website should be directed to zoliky@gmail.com
 
 
 [![Jamstack](logo1.png)](https://jamstack.org/)
+
 [![Jamstack](logo3.png)](https://jamstack.org/)
+
 [![Jamstack](logo2.png)](https://jamstack.org/)
 
